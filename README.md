@@ -1,4 +1,4 @@
-# Salutations fine shyt 👋
+# Salutations 👋
 I'm a student and web developer passionate about building clean, functional applications. I enjoy bridging the gap between solid code and minimalist design. <br><br>* 💻 **Tech Stack:** React, TypeScript, Node.js, java springboot ..<br>* 🚀 **Projects:** Building **PrepHelp**, an educational resource platform, and developing API-driven applications.<br>* 🎨 **Interests:** Minimalist graphic design, UI/UX, and discovering new music. 
 
 
